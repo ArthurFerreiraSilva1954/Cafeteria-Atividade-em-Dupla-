@@ -1,4 +1,20 @@
 
+.back {
+    background-color: beige;
+}
+
+.Titulo {
+    color:  #B7825F;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+img {
+  width: 200px;
+  height: auto;
+}
+
 .frase {
     text-align: center;
     margin-top: 20%;
@@ -6,4 +22,3 @@
     color: #885431;
     font-family: Arial, Helvetica, sans-serif;
 }
-
