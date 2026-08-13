@@ -5,7 +5,7 @@
 
 .h2 {
     text-align: center;
-    color: rgb(71, 12, 12);
+    color: #B7825F;
     font-size: 70%;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
 }
@@ -14,5 +14,6 @@
     text-align: center;
     margin-top: 20%;
     align-content: center;
+    color: #885431;
 }
 
